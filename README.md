@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm crafting a new generation of e-learning platforms that blur the lines between traditional instruction and futuristic learning experiences, where AI becomes your personalized tutor, guiding you through immersive simulations, interactive challenges, and self-directed exploration.
+I’m Mark Kiarie, a programmer, photographer, and videographer passionate about coding, AI, and capturing life’s moments. My goal is to blend creativity and technology to make a lasting impact.
 
 
 # 💻 Tech Stack:
