@@ -1,18 +1,90 @@
-# 💫 About Me:
-I’m Mark Kiarie, a programmer, photographer, and videographer passionate about coding, AI, and capturing life’s moments. My goal is to blend creativity and technology to make a lasting impact.
+# 💫 About Me
 
+I’m Mark Kiarie, a software engineer and product builder focused on building scalable software, AI-powered systems, and products that solve real-world problems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=plastic&logo=Apache%20Ant&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=plastic&logo=Apache%20Flink&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=plastic&logo=gitpod&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Markmahugu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Markmahugu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Markmahugu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I work across the full product development lifecycle, from architecture and backend systems to frontend experiences, APIs, databases, cloud infrastructure, and AI integrations. I enjoy turning complex ideas into reliable, production-ready products.
+
+Beyond software, I’m also a photographer, videographer, and creative technologist, combining engineering and creativity to build products and experiences that make an impact.
+
+# 💻 Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic\&logo=go\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic\&logo=php\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=plastic\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic\&logo=openjdk\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=plastic\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic\&logo=next.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic\&logo=bootstrap\&logoColor=white)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic\&logo=flask\&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/Go%20Fiber-00ACD7?style=plastic\&logo=go\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic\&logo=node.js\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=plastic\&logo=fastapi\&logoColor=white)
+
+### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic\&logo=redis\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic\&logo=sqlite\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic\&logo=linux\&logoColor=black)
+
+### AI & Machine Learning
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=plastic\&logo=google\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic\&logo=pandas\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=plastic\&logo=scipy\&logoColor=white)
+
+### Cloud, DevOps & Developer Tools
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic\&logo=google-cloud\&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=plastic\&logo=railway\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=plastic\&logo=gitlab\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic\&logo=visualstudiocode\&logoColor=white)
+
+### Creative & Design
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=plastic\&logo=adobephotoshop\&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=plastic\&logo=adobepremierepro\&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=plastic\&logo=adobeaftereffects\&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=plastic\&logo=adobelightroom\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=plastic\&logo=blender\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic\&logo=canva\&logoColor=white)
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Markmahugu\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Markmahugu\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Markmahugu\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Markmahugu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=Markmahugu\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Markmahugu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Markmahugu\&icon=0\&color=0)](https://visitcount.itsvg.in)
